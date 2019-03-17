@@ -13,7 +13,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="viewport"
 			content="width=device-width, initial-scale=1, maximum-scale=1">
-		<title>明日科技有限公司</title>
+		<title>阿根廷帝国公司</title>
 		<link href="css/main.css" rel="stylesheet" type="text/css">
 		<link href="css/container.css" rel="stylesheet" type="text/css">
 		<link href="css/reset.css" rel="stylesheet" type="text/css">
@@ -76,8 +76,6 @@
 		<!--底部-->
 		<%@ include file="common_footer.jsp"%>
 
-		
-		
 	</body>
 
 	<!--//底部-->

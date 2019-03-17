@@ -12,7 +12,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="viewport"
 			content="width=device-width, initial-scale=1, maximum-scale=1">
-		<title>明日科技有限公司</title>
+		<title>阿根廷帝国公司</title>
 		<link href="css/main.css" rel="stylesheet" type="text/css">
 		<link href="css/container.css" rel="stylesheet" type="text/css">
 		<link href="css/reset.css" rel="stylesheet" type="text/css">
@@ -43,55 +43,20 @@
 					</div>
 				</div>
 				<div class="content_main">
-					
-					<p>
-						1999/12 公司创立，将为编程者提供有价值内容和产品（编程词典）作为公司发展重点之一。
-					</p>
+
+					<h1>Governorship | Duties</h1>
+					<p>The governor is in charge of managing the Central Bank and he legally represents it before third parties; he acts on behalf of the Board of Directors, and calls for and chairs its meetings; he ensures compliance with the BCRA’s Charter, other national laws and Board Resolutions; and he performs all other duties entrusted to him as the Bank’s main executive authority (BCRA Charter, Section 10). He is a member of the Board of Directors.</p>
+					<h1>Guido Sandleris | Governor (Presidential Appointment subject to Senate Confirmation)</h1>
+					<p>Guido Sandleris holds a degree in Economics from Universidad de Buenos Aires (UBA), a master’s degree in Economics from the London School of Economics and a PhD in Economics from Columbia University.</p>
 					<br>
-					
-					<p>
-						2003/01 明日团队第一本编程图书问世，获得了广大读者的支持和鼓励，在同类图书中长期排名第一。
-					</p>
 					<br>
-					
-					<p>
-						2005/08 论坛和支持网站（www.mingribook.com），目前成为国内图书领域的旗舰品牌。
-					</p>
+					<p>In June 2018 he was appointed Secretary of Economic Policy at the Ministry of Economy. During 2016 he served as Undersecretary of Finance in the Province of Buenos Aires and in 2017 he held office as Chief of Advisors of the Argentine Ministry of Finance. He has been a professor at Johns Hopkins University and a visiting professor at the London School of Economics and Universidad de Los Andes. He was a visiting researcher at the Federal Reserve Bank of Minneapolis, the Central Bank of Chile, the Pontifical Catholic University of Rio de Janeiro, the Inter-American Development Bank (IDB) and the International Monetary Fund (IMF). He was Director of the Center for Financial Research at the Universidad Torcuato Di Tella (UTDT) where he was also appointed Dean of the Businesses School.</p>
+
 					<br>
-					
-					<p>
-						2007/09 第一本图书版权输出到台湾，目前已经有近20本图书版权输出到台湾。
-					</p>
 					<br>
-					
-					<p>
-						2009/11 图书已形成软件工程师入门和典藏两大类，共200多本图书，销售码洋超过1.3亿。
-					</p>
+					<p>He specialized in international economics, finance and macroeconomics. His academic research work focuses on the effect of financial crises and the costs of sovereign defaults, among other subjects. His papers have been published in the Journal of International Economics, Journal of Monetary Economics, Journal of Money, Credit and Banking, and Oxford University Press, among others. He was a consultant and researcher for the World Bank, the Inter-American Development Bank, the Office of the Attorney General of the Treasury and several Latin American governments and investment banks. He co-authored the children’s book series “Hay Equipo” (The Team Gets Ready for the Match) and he has received several scholarships and research grants from the Fulbright Commission, the Central Bank of Argentina, the World Bank, Columbia University, and LACEA.</p>
+
 					<br>
-					
-					<p>
-						2010/01 《编程词典》正式发布编程词典系列产品在北京图书订货会上正式发布，同期编程词典全程服务社区正式发布。网址：www.mrbccd.com。
-					</p>
-					<br>
-					
-					<p>
-						2011/08 明日科技在北京国际会展中心率先推出了国内第一套拥有完全自主知识产权的数字化学习软件《编程词典（个人版）》软件，开创了数字化学习的新方式，极大影响教育软件行业和大家的未来发展模式。
-					</p>
-					<br>
-					
-					<p>
-						2011/09 明日科技官方正品图书正式登陆淘宝，为喜爱IT行业的读者提供了专业的第一手正品资料，http://mrbccd.taobao.com；同步上架了最新推出的《编程词典（个人版）》软件，受到了广大读者的好评。
-					</p>
-					<br>
-					
-					<p>
-						2012/08 《程序开发资源库》和《WEB开发资源库》将隆重上市，将填补我国程序开发类	数字资源库的空白。（C/S结构）
-					</p>
-					<br>
-					
-					<p>
-						2012/11 编程词典云端版即将上线，用户无需安装，即可轻松享用编程词典系列软件。（B/S结构）
-					</p>
 					<br>
 					
 

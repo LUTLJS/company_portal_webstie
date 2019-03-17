@@ -83,12 +83,16 @@
 <%--底部功能栏代码结束--%>
 <!-- start  main-->
 <div class="address">
-    Copyright 2016 明日科技有限公司 All Rights.
-    <br>
-    <a href="http://www.mingrisoft.com">吉林省明日科技有限公司</a> 技术支持
-    <a href="<%=basePath%>/admin/login.jsp">后台</a>
-    <br>
-    吉ICP备 10002740号-2 吉公网安备22010202000132号
+    <p>
+        Copyright 2016 阿根廷帝国公司 All Rights.
+    </p>
+    <p>
+        <a href="http://www.bcra.gov.ar/">阿根廷帝国公司</a> 技术支持
+        <a href="<%= basePath%>/admin/login.jsp">后台</a>
+    </p>
+    <p>
+        布宜诺斯艾利斯ICP备  10002740号-2  阿根廷公网安备22010202000132号
+    </p>
 </div>
 <div class="clear"></div>
 </div>

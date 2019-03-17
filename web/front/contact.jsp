@@ -12,7 +12,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="viewport"
 			content="width=device-width, initial-scale=1, maximum-scale=1">
-		<title>明日科技有限公司</title>
+		<title>阿根廷帝国公司</title>
 		<link href="css/main.css" rel="stylesheet" type="text/css">
 		<link href="css/container.css" rel="stylesheet" type="text/css">
 		<link href="css/reset.css" rel="stylesheet" type="text/css">
@@ -70,7 +70,7 @@
 											公司名称
 										</td>
 										<td>
-											明日科技有限公司
+											阿根廷帝国公司
 										</td>
 									</tr>
 									<tr>
@@ -78,7 +78,7 @@
 											联系人
 										</td>
 										<td>
-											张女士、王先生
+											廷女皇、阿大师
 										</td>
 									</tr>
 									<tr>
@@ -86,7 +86,7 @@
 											电话
 										</td>
 										<td>
-											0431-xxxxxxxx
+											2333-8888888
 										</td>
 									</tr>
 									<tr>
@@ -94,7 +94,7 @@
 											手机
 										</td>
 										<td>
-											151xxxxxxx
+											2333333333
 										</td>
 									</tr>
 									<tr>
@@ -102,7 +102,7 @@
 											邮箱
 										</td>
 										<td>
-											xxxxxxx@163.net
+											argentina_empire@argentina.net
 										</td>
 									</tr>
 									<tr>
@@ -110,7 +110,7 @@
 											地址
 										</td>
 										<td>
-											长春市卫星广场财富大厦1023室
+											太阳系地球行星南美洲阿根廷帝国
 										</td>
 									</tr>
 									<tr>
@@ -118,7 +118,7 @@
 											邮编
 										</td>
 										<td>
-											130000
+											10000000
 										</td>
 									</tr>
 									<tr>

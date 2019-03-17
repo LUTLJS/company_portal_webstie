@@ -6,7 +6,7 @@
 <html class="no-js">
 	<head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>明日科技有限公司</title>
+		<title>阿根廷帝国公司</title>
 		<meta name="viewport"
 			content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 		<meta name="renderer" content="webkit">
@@ -18,7 +18,7 @@
 	<body>
 		<header class="am-topbar admin-header">
 		<div class="am-topbar-brand">
-			<strong>明日科技</strong>
+			<strong>阿根廷帝国</strong>
 			<small>后台管理</small>
 		</div>
 
@@ -71,7 +71,7 @@
 								 公告
 							</p>
 							<p>
-								技术支持：明日科技
+								技术支持：阿根廷帝国
 
 							</p>
 						</div>
@@ -264,7 +264,7 @@
 		<footer>
 		<hr>
 		<p class="am-padding-left">
-			© 2016 明日科技
+			© 2016 阿根廷帝国
 		</p>
 		</footer>
 
